@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {},
+    ".NETCoreApp,Version=v10.0/win-x64": {
+      "WSTR Visual Radio Studio/0.8.2-alpha8c": {
+        "runtime": {
+          "WSTR Visual Radio Studio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WSTR Visual Radio Studio/0.8.2-alpha8c": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

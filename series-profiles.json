@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "CBS Radio Mystery Theater",
+    "AccentHex": "#C8A24B",
+    "BrandingLine": "WSTR 109 Stardust OTR Radio \u2022 stardustotr.com",
+    "LogoPath": null,
+    "Style": "Mystery"
+  },
+  {
+    "Name": "Suspense",
+    "AccentHex": "#B53B32",
+    "BrandingLine": "WSTR 109 Stardust OTR Radio \u2022 stardustotr.com",
+    "LogoPath": null,
+    "Style": "Noir"
+  },
+  {
+    "Name": "The Shadow",
+    "AccentHex": "#7E1933",
+    "BrandingLine": "WSTR 109 Stardust OTR Radio \u2022 stardustotr.com",
+    "LogoPath": null,
+    "Style": "Noir"
+  },
+  {
+    "Name": "Gunsmoke",
+    "AccentHex": "#B87938",
+    "BrandingLine": "WSTR 109 Stardust OTR Radio \u2022 stardustotr.com",
+    "LogoPath": null,
+    "Style": "Western"
+  },
+  {
+    "Name": "X Minus One",
+    "AccentHex": "#5CA4A9",
+    "BrandingLine": "WSTR 109 Stardust OTR Radio \u2022 stardustotr.com",
+    "LogoPath": null,
+    "Style": "Science Fiction"
+  }
+]
